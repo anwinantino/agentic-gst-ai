@@ -1,0 +1,43 @@
+Electronics such as laptops, smartphones, tablets, and accessories attract 18 percent GST.
+
+Large home appliances including refrigerators, washing machines, and air conditioners attract 18 percent GST.
+
+Furniture items such as tables, chairs, beds, and cupboards attract 12 percent GST.
+
+Office furniture and modular workstations attract 12 percent GST.
+
+Essential goods such as groceries, cereals, rice, wheat, milk, and vegetables attract 5 percent GST.
+
+Packaged food items including branded snacks and processed foods attract 12 percent GST.
+
+Luxury items such as premium cars, high-end motorcycles, and luxury watches attract 28 percent GST.
+
+Clothing priced below 1000 rupees per item attracts 5 percent GST.
+
+Clothing priced above 1000 rupees per item attracts 12 percent GST.
+
+Services such as consulting, professional services, IT services, and software services attract 18 percent GST.
+
+Hotel accommodation priced below 1000 rupees per day is exempt from GST.
+
+Hotel accommodation priced between 1000 and 7500 rupees per day attracts 12 percent GST.
+
+Hotel accommodation priced above 7500 rupees per day attracts 18 percent GST.
+
+GST is calculated on the transaction value, including discounts applied at the time of sale.
+
+For intra-state transactions, GST is split into Central GST (CGST) and State GST (SGST).
+
+For inter-state transactions, Integrated GST (IGST) is applicable instead of CGST and SGST.
+
+Input Tax Credit (ITC) can be claimed on GST paid for business-related purchases.
+
+Input Tax Credit cannot be claimed for personal or non-business expenses.
+
+GST paid on capital goods can be claimed as Input Tax Credit over time, subject to GST rules.
+
+Reverse Charge Mechanism (RCM) applies when the recipient is liable to pay GST instead of the supplier.
+
+GST registration is mandatory for businesses with annual turnover exceeding the prescribed threshold.
+
+Small businesses under the composition scheme pay GST at a fixed rate but cannot claim Input Tax Credit.
