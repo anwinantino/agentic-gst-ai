@@ -1,0 +1,10 @@
+jupyter
+langchain
+langgraph
+langchain-community
+langchain-google-genai
+sqlalchemy
+psycopg2-binary
+pinecone
+sentence-transformers
+python-dotenv
